@@ -2,7 +2,7 @@
 
 int main()
 {
-    setlocale(LC_ALL, "Rus");
+    setlocale(LC_ALL, "Russian");
 
     int n, x=0, y=0;
     int mat[30][30];
